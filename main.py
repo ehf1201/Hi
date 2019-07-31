@@ -1,2 +1,2 @@
-print("Hello python")
+print("Hello world")
 print("하위!")
